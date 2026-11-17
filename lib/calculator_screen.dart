@@ -9,10 +9,8 @@ class CalculatorScreen extends StatefulWidget {
 }
  
 class _CalculatorScreenState extends State<CalculatorScreen> {
-  @override
-
-final firstNumberController = TextEditingController();
-final secondNumberController = TextEditingController();
+  final firstNumberController = TextEditingController();
+  final secondNumberController = TextEditingController();
  
 String result = '0';
 String operationLabel = 'Enter two numbers';

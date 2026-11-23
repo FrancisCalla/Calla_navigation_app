@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329775537601",
+    "project_id": "calla-student-app",
+    "storage_bucket": "calla-student-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329775537601:android:b67f6b18c740ef404f2340",
+        "android_client_info": {
+          "package_name": "com.example.calla__navigation_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXhc3KB3XWZQJcKTiOdwGiDl5TXrRn4qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
